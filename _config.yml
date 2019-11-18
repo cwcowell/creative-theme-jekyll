@@ -1,12 +1,14 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: Chris's sample website. Does htis work?
+email: chris@example.com
+description: > This is probably the best website ever?
+Yes, definitely the best one.
+This is the third line. > # this means to ignore newlines until "baseurl:"
+baseurl: "/foobar/path/" # the subpath of your site, e.g. /blog/
+url: "https://biggerblogs.com" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: chrisontwitter
+github_username: chrisongithub
 
 # Build settings
 markdown: kramdown
